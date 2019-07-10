@@ -2,7 +2,7 @@
 
 namespace StoreFramework
 {
-    public class Class1
+    public interface IStore<T>
     {
     }
 }
